@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "struttura_dati.h": "c",
+        "buffer": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "personal_time.h": "c",
+        "array": "c",
+        "compare": "c",
+        "type_traits": "c",
+        "bib_conf.h": "c",
+        "pthread.h": "c",
+        "semaphore.h": "c",
+        "time.h": "c",
+        "errno.h": "c",
+        "unistd.h": "c",
+        "thread_safe_rand.h": "c",
+        "coda_condivisa.h": "c",
+        "static_fifo.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
